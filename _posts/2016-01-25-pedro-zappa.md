@@ -16,8 +16,8 @@ keywords:
   - gig
   - arrangement
 description: "\"I'm from Póvoa de Varzim, Portugal. I'm the only musician in my family, but music was always playing in the house when I was a child. My biggest influences as bass players right now would be Paul McCartney, Pino Palladino, Nathan East, and Michael League."
-datePublished: '2016-01-25T18:55:58.249Z'
-dateModified: '2016-01-25T18:55:55.930Z'
+datePublished: '2016-01-25T18:57:29.024Z'
+dateModified: '2016-01-25T18:57:26.278Z'
 author: []
 related: []
 app_links: []
@@ -35,4 +35,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Pedro Zappa</h1><p>"I'm from Póvoa de Varzim, Portugal. I'm the only musician in my family, but music was always playing in the house when I was a child. My biggest influences as bass players right now would be Paul McCartney, Pino Palladino, Nathan East, and Michael League.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f8e436a8c924123c23c7389d375543b0b479317.jpg" /></article>
+<article style=""><h1>Pedro Zappa</h1><p>"I'm from Póvoa de Varzim, Portugal. I'm the only musician in my family, but music was always playing in the house when I was a child. My biggest influences as bass players right now would be Paul McCartney, Pino Palladino, Nathan East, and Michael League.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f47d4fb068c70bfc0cad4b7942c136f86f473e6a.jpg" /></article>
