@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwi998KCt8XKAhVFOz4KHT-fAkkQFggjMAA&url=https%3A%2F%2Fwww.berklee.edu%2Fbass%2Fpedro-zappa&usg=AFQjCNEMstc_F_zHzOqLForRqMSQPpzQzw&sig2=o0q_Vou_pQzw4CTHNtdwOQ'
 title: Pedro Zappa
-datePublished: '2016-01-25T18:36:08.431Z'
+datePublished: '2016-01-25T18:36:08.500Z'
 dateModified: '2016-01-25T18:34:34.383Z'
 sourcePath: _posts/2016-01-25-pedro-zappa.md
 published: true
