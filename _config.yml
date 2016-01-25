@@ -1,7 +1,7 @@
 name: Pedro Zappa
 favicon: null
-layout_spectrum: 0.8898
-typography_spectrum: 0.7825043441262096
+layout_spectrum: 0.66776
+typography_spectrum: 0.79419
 title: Pedro Zappa
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#8d4ac8'
     - '#b182be'
     - '#ebd8f2'
-  brandStrength: 0.125
-  lightness: 0.5625
+  brandStrength: 0.5
+  lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.7317281202413142
+  rhythmicContrast: 0.5
 purpose: []
