@@ -16,7 +16,7 @@ keywords:
   - gig
   - arrangement
 description: "\"I'm from Póvoa de Varzim, Portugal. I'm the only musician in my family, but music was always playing in the house when I was a child. My biggest influences as bass players right now would be Paul McCartney, Pino Palladino, Nathan East, and Michael League."
-datePublished: '2016-01-25T23:36:11.097Z'
+datePublished: '2016-01-25T23:36:11.181Z'
 dateModified: '2016-01-25T23:36:08.214Z'
 author: []
 related: []
