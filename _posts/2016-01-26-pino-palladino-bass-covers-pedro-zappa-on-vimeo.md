@@ -8,23 +8,23 @@ publisher:
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
   domain: vimeo.com
 keywords:
+  - video
   - album
   - zappa
   - bass
-  - video
   - pedro
   - cover
-  - vimeans
   - makin
-  - boy
-  - missives
+  - james
+  - dolly
+  - angelo
 description: "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads."
 inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://vimeo.com/album/3442939'
 title: 'Pino Palladino (Bass Covers) [Pedro Zappa] on Vimeo'
-datePublished: '2016-01-26T01:34:55.377Z'
-dateModified: '2016-01-26T01:32:31.975Z'
+datePublished: '2016-01-26T18:55:15.007Z'
+dateModified: '2016-01-26T18:47:55.914Z'
 sourcePath: _posts/2016-01-26-pino-palladino-bass-covers-pedro-zappa-on-vimeo.md
 published: true
 inFeed: true
