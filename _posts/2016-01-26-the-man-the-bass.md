@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-26T18:43:16.139Z'
-dateModified: '2016-01-26T18:43:02.585Z'
+datePublished: '2016-01-26T18:46:03.133Z'
+dateModified: '2016-01-26T18:45:59.593Z'
 title: The Man. The Bass.
 author: []
+sourcePath: _posts/2016-01-26-the-man-the-bass.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-26-the-man-the-bass.md
-published: true
 url: the-man-the-bass/index.html
 _type: Article
 
