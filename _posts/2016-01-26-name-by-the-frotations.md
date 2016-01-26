@@ -20,10 +20,10 @@ keywords:
 description: 'The Frotations Name, released 03 February 2014 1. Magic Lover (Live) 2. Serenity 3. Name 4. Butterfly Effect Booking/Management Contact: TheFrotations@gmail.com'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwid97Gcq8bKAhXMWT4KHbHxCVcQFggcMAA&url=https%3A%2F%2Fthefrotations.bandcamp.com%2F&usg=AFQjCNGWRCKP98OIK7WiOne-S1RstsG6pg&sig2=aSUaFFDXxPBNvCjapVVqJA&bvm=bv.112454388,d.cWw'
+isBasedOnUrl: 'https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj17syhk8jKAhUDcD4KHeCpCXIQFggcMAA&url=https%3A%2F%2Fthefrotations.bandcamp.com%2F&usg=AFQjCNGWRCKP98OIK7WiOne-S1RstsG6pg&sig2=xlch3a6bD5Cg66LpYd2-jA&bvm=bv.112454388,d.cWw'
 title: 'Name, by The Frotations'
-datePublished: '2016-01-26T01:36:03.817Z'
-dateModified: '2016-01-26T01:35:38.711Z'
+datePublished: '2016-01-26T18:55:14.901Z'
+dateModified: '2016-01-26T18:53:44.598Z'
 sourcePath: _posts/2016-01-26-name-by-the-frotations.md
 published: true
 inFeed: true
