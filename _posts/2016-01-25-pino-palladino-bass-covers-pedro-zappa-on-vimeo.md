@@ -23,14 +23,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://vimeo.com/album/3442939'
 title: 'Pino Palladino (Bass Covers) [Pedro Zappa] on Vimeo'
-datePublished: '2016-01-26T01:20:05.904Z'
-dateModified: '2016-01-26T00:05:07.033Z'
+datePublished: '2016-01-26T01:23:57.574Z'
+dateModified: '2016-01-26T01:23:54.177Z'
 sourcePath: _posts/2016-01-25-pino-palladino-bass-covers-pedro-zappa-on-vimeo.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
