@@ -1,12 +1,10 @@
 ---
-author:
-  - avatar: {}
-related: []
-publisher:
-  name: Vimeo
-  domain: vimeo.com
-  url: 'https://vimeo.com'
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/album/3442939'
+inLanguage: en
+starred: false
 keywords:
   - album
   - zappa
@@ -19,19 +17,21 @@ keywords:
   - boy
   - missives
 description: "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads."
-inLanguage: en
+datePublished: '2016-01-26T01:30:31.229Z'
+dateModified: '2016-01-26T01:30:28.334Z'
+author:
+  - avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://vimeo.com/album/3442939'
 title: 'Pino Palladino (Bass Covers) [Pedro Zappa] on Vimeo'
-datePublished: '2016-01-26T01:23:57.653Z'
-dateModified: '2016-01-26T01:23:54.177Z'
 sourcePath: _posts/2016-01-25-pino-palladino-bass-covers-pedro-zappa-on-vimeo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: false
 authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
