@@ -23,14 +23,14 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://vimeo.com/album/3636923'
 title: 'Vulfpeck (Bass Covers) [Pedro Zappa] on Vimeo'
-datePublished: '2016-01-26T01:19:54.786Z'
-dateModified: '2016-01-26T00:05:10.387Z'
+datePublished: '2016-01-26T01:23:48.431Z'
+dateModified: '2016-01-26T01:23:45.999Z'
 sourcePath: _posts/2016-01-25-vulfpeck-bass-covers-pedro-zappa-on-vimeo.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
-starred: true
+starred: false
 authors: []
 _type: VideoObject
 _context: 'http://schema.org'
