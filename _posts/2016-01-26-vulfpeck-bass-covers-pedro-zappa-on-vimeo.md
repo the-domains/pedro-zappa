@@ -1,12 +1,10 @@
 ---
-author:
-  - avatar: {}
-related: []
-publisher:
-  url: 'https://vimeo.com'
-  name: Vimeo
-  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-  domain: vimeo.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://vimeo.com/album/3636923'
+inLanguage: en
+starred: false
 keywords:
   - albums
   - video
@@ -19,19 +17,23 @@ keywords:
   - car
   - lenses
 description: "Join the web's most supportive community of creators and get high-quality tools for hosting, sharing, and streaming videos in gorgeous HD with no ads."
-inLanguage: en
+datePublished: '2016-01-28T00:11:42.618Z'
+dateModified: '2016-01-28T00:11:39.911Z'
+author:
+  - avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'https://vimeo.com/album/3636923'
 title: 'Vulfpeck (Bass Covers) [Pedro Zappa] on Vimeo'
-datePublished: '2016-01-26T18:55:15.043Z'
-dateModified: '2016-01-26T18:47:49.801Z'
 sourcePath: _posts/2016-01-26-vulfpeck-bass-covers-pedro-zappa-on-vimeo.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Vimeo
+  domain: vimeo.com
+  url: 'https://vimeo.com'
+  favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
 ---
-<article style=""><h1>Vulfpeck &amp;lpar;Bass Covers&amp;rpar; &amp;lsqb;Pedro Zappa&amp;rsqb; on Vimeo</h1><p>Join the web's most supportive community of creators and get high-quality tools for hosting&amp;comma; sharing&amp;comma; and streaming videos in gorgeous HD with no ads&amp;period;</p><img src="https://i.vimeocdn.com/video/546848785_295x166.jpg" /></article>
+<article style=""><h1>Vulfpeck (Bass Covers) [Pedro Zappa] on Vimeo</h1><p>Includes Notation Transcriptions</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8db9775488bd653c7fb53bc4dd910435a5e86051.jpg" /></article>
