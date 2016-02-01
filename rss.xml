@@ -4,7 +4,7 @@
         <description><![CDATA[Z's Grey Matter Bonanza ]]></description>
         <link>https://thegrid.ai/pedro-zappa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 20:30:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 22:49:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/pedro-zappa/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Man. The Bass.]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/pedro-zappa/the-man-the-bass/index.html</link>
             <guid isPermaLink="false">00d105b3-7903-448a-be14-f2e4df7c46d7</guid>
             <pubDate>Tue, 26 Jan 2016 18:46:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Stone Giant, la banda del argentino que revivió a Zeppelin en EE.UU - Indie Hoy]]></title>
+            <description><![CDATA[<article><h1>Stone Giant, la banda del argentino que revivió a Zeppelin en EE.UU - Indie Hoy</h1><p>Sebastián Fernández (26) nació en la ciudad de Buenos Aires y de chico es fan del rock clásico de los '60 y '70. A los 20 años se colgó la guitarra y viajó a Boston a audicionar para el Berklee College of Music, donde ingresó para estudiar composición musical.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d7be75ce2a79f8dcee7634a43757b85f9bed9838.jpg"></article>]]></description>
+            <link>http://www.indiehoy.com/entrevistas/stone-giant-la-banda-del-argentino-que-revivio-a-zeppelin-en-ee-uu/</link>
+            <guid isPermaLink="false">65ad9bca-7cf5-48c9-a100-7d326904096a</guid>
+            <pubDate>Mon, 01 Feb 2016 22:48:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Flabergast - The Connection]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiUmJ_zpcbKAhWMNj4KHXxCAC8QFggcMAA&amp;url=https%3A%2F%2Fflabergast.bandcamp.com%2F&amp;usg=AFQjCNEE6_WhlUcyUeJehhgGLvxw-rpLAQ&amp;sig2=03_9Ac7lR5Ybg_AGUJpS7g&amp;bvm=bv.112454388,d.cWw</link>
             <guid isPermaLink="false">aa644908-9b2a-4064-957b-cd7c14696fe5</guid>
             <pubDate>Tue, 26 Jan 2016 01:17:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pedro Zappa]]></title>
-            <description><![CDATA[<article><h1>Pedro Zappa</h1><p>"I'm from Póvoa de Varzim, Portugal. I'm the only musician in my family, but music was always playing in the house when I was a child. My biggest influences as bass players right now would be Paul McCartney, Pino Palladino, Nathan East, and Michael League.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f139fc1db065be418c47c14433906bba3aba8a20.jpg"></article>]]></description>
-            <link>https://thegrid.ai/pedro-zappa/pedro-zappa/index.html</link>
-            <guid isPermaLink="false">411a5978-4c62-4630-bd31-dc304e330265</guid>
-            <pubDate>Tue, 26 Jan 2016 01:41:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
