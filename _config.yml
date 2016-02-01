@@ -1,6 +1,6 @@
 name: Pedro Zappa
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.1803
 typography_spectrum: 0.79633
 title: "Z's Grey Matter Bonanza "
 cta:
@@ -23,7 +23,7 @@ color:
     - '#604834'
     - '#fff8ff'
   brandStrength: 0
-  lightness: 1
-  saturation: 0.5625
+  lightness: 0.25
+  saturation: 1
   rhythmicContrast: 1
 purpose: []
